@@ -23,3 +23,8 @@ h1 {
   margin-left: 12em; 
   padding: 4px; 
 }
+footer {
+  display: block;
+  color:green;
+  border: 2px;
+}
